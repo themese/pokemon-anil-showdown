@@ -1,6 +1,7 @@
 /config/avatars.json
 /config/suspects.json
 /node_modules
+.vscode/
 npm-debug.log
 # Typescript build artifacts
 .*-dist/
