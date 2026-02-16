@@ -57,3 +57,4 @@ local_settings.py
 pip-log.txt
 # redis dumps
 *.rdb
+logs/errors.txt

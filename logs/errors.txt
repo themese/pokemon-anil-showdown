@@ -1,0 +1,12 @@
+
+[1771236418916] Error: Nothing matches "Basculin-White-Striped"
+    at DexFormats.validateBanRule (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\sim\dex-formats.ts:1093:10)
+    at DexFormats.validateRule (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\sim\dex-formats.ts:1013:33)
+    at C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\sim\dex-formats.ts:764:46
+    at Array.map (<anonymous>)
+    at DexFormats.getRuleTable (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\sim\dex-formats.ts:764:29)
+    at GlobalRoomState.get formatListText [as formatListText] (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\server\rooms.ts:1493:34)
+    at GlobalRoomState.handleConnect (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\server\rooms.ts:1749:80)
+    at Object.socketConnect (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\server\users.ts:1669:15)
+    at Object.onSpawn (C:\Users\Jose.Manuel.Fernande\Software\custom-showdown\server\sockets.ts:36:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
